@@ -2,7 +2,7 @@
 .settings/
 trunk.iml
 nbproject
-var/cache/
-var/backup/
-var/log/*
-var/tmp/*
+website/var/cache/
+website/var/backup/
+website/var/log/*
+website/var/tmp/*
