@@ -6,3 +6,4 @@ website/var/cache/
 website/var/backup/
 website/var/log/*
 website/var/tmp/*
+website/var/system/*
